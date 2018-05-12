@@ -1,0 +1,38 @@
+_repo: Kurittaja_38988
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Aatto S.
+    - Suppanen, Adolf
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dahl, Jonas Anton
+    alias: Dahl, Jonas
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '39758'
+    url: http://www.gutenberg.org/2009/agents/39758
+description: ''
+gutenberg_issued: '2012-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38988'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: Kurittaja
+url: http://www.gutenberg.org/ebooks/38988
